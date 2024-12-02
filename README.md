@@ -81,3 +81,6 @@ NGINX is open source software for web serving, reverse proxying, caching, load b
     _localhost:3000_ < --- > _localhost:8080_
 
     ![nginxServer](/images/nginxServer.jpg)
+
+    ---
+    Make the app ready to be deployed to AWS ECS
